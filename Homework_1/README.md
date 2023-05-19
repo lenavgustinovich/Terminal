@@ -158,7 +158,7 @@ curl http://162.55.220.72:5005/terminal-hw-request
 If you entered the URL manually please check your spelling and
 try again.</p>
 ```
-## Write a bash script which does the steps above 3,4,5,6,7,8,13 commands
+## 22.* Write a bash script which does the steps above 3,4,5,6,7,8,13 commands
 You can look at the script code [here](https://github.com/ElenaAvgustinovich1992/Terminal/blob/main/shh.sh)
 
 
